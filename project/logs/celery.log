@@ -1,0 +1,28 @@
+[2022-01-19 15:25:28,976: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-01-19 15:25:28,982: INFO/MainProcess] mingle: searching for neighbors
+[2022-01-19 15:25:29,994: INFO/MainProcess] mingle: all alone
+[2022-01-19 15:25:30,001: INFO/MainProcess] celery@9474cf3a4206 ready.
+[2022-01-19 15:26:45,026: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-01-19 15:26:45,031: INFO/MainProcess] mingle: searching for neighbors
+[2022-01-19 15:26:46,047: INFO/MainProcess] mingle: all alone
+[2022-01-19 15:26:46,079: INFO/MainProcess] celery@9d29c97afb9c ready.
+[2022-01-19 15:26:49,967: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-01-19 15:27:57,517: INFO/MainProcess] Received task: create_task[715b7c19-f908-4e76-a60c-06d9c60c80a3]  
+[2022-01-19 15:28:07,534: INFO/ForkPoolWorker-15] Task create_task[715b7c19-f908-4e76-a60c-06d9c60c80a3] succeeded in 10.015595644013956s: True
+[2022-01-19 15:28:36,113: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-01-19 15:28:36,119: INFO/MainProcess] mingle: searching for neighbors
+[2022-01-19 15:28:36,832: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-01-19 15:28:36,839: INFO/MainProcess] mingle: searching for neighbors
+[2022-01-19 15:28:36,920: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-01-19 15:28:36,925: INFO/MainProcess] mingle: searching for neighbors
+[2022-01-19 15:28:37,134: INFO/MainProcess] mingle: all alone
+[2022-01-19 15:28:37,170: INFO/MainProcess] celery@4f1c8356ce46 ready.
+[2022-01-19 15:28:37,852: INFO/MainProcess] mingle: all alone
+[2022-01-19 15:28:37,859: INFO/MainProcess] celery@37a7ba2e92ed ready.
+[2022-01-19 15:28:37,939: INFO/MainProcess] mingle: all alone
+[2022-01-19 15:28:37,947: INFO/MainProcess] celery@520c5fb62d3e ready.
+[2022-01-19 15:28:42,027: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-01-19 15:28:42,027: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-01-19 15:28:42,027: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-01-19 15:32:08,117: INFO/MainProcess] Received task: create_task[1aff0e17-656f-4f41-923c-586873430c0c]  
+[2022-01-19 15:32:08,124: INFO/ForkPoolWorker-15] Task create_task[1aff0e17-656f-4f41-923c-586873430c0c] succeeded in 0.0017577190010342747s: True
